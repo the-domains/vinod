@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 typography_spectrum: 0.008960574
 color:
-  saturation: 0.5197133
+  saturation: 0.3351254
   brandStrength: 0
-  lightness: 0.6236559
+  lightness: 1
   brandColors:
     - '#0E0C0C'
     - '#FCFFFF'
     - '#FFFB9A'
     - '#A48742'
     - '#5C4A1F'
-  rhythmicContrast: 0.7275985
+  rhythmicContrast: 0.4731183
 layout_spectrum: 1
 name: Vinod
