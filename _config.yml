@@ -1,14 +1,26 @@
-layout_spectrum: 1
-color:
-  saturation: 0.2831541
-  brandStrength: 0.6813985
-  lightness: 0.5358423
-  rhythmicContrast: 0.7674331
-  brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.008960574
+color:
+  saturation: 0.5197133
+  brandStrength: 0
+  lightness: 0.6236559
+  brandColors:
+    - '#0E0C0C'
+    - '#FCFFFF'
+    - '#FFFB9A'
+    - '#A48742'
+    - '#5C4A1F'
+  rhythmicContrast: 0.7275985
+layout_spectrum: 1
 name: Vinod
