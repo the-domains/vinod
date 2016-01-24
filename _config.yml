@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.2831541
+  brandStrength: 0.6813985
+  lightness: 0.5358423
+  rhythmicContrast: 0.7674331
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+typography_spectrum: 0.008960574
+name: Vinod
