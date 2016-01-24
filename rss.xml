@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Vinod]]></title>
+        <description><![CDATA[Vinod]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 24 Jan 2016 17:32:09 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The truth is that I'm a lazy person. I'm a dreamer but I like to keep things simple. This promises big things. </p>]]></description>
+            <link>undefinedf3718d95-d02f-4d2f-b965-265246c1461f/index.html</link>
+            <guid isPermaLink="false">f3718d95-d02f-4d2f-b965-265246c1461f</guid>
+            <pubDate>Sun, 24 Jan 2016 17:32:08 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
